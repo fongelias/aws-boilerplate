@@ -2,7 +2,7 @@
   "name": "aws-boilerplate",
   "version": "0.0.0",
   "description": "",
-  "main": "src/server/index.js",
+  "main": "src/server/server.js",
   "scripts": {
     "setup": "node internals/setup.js",
     "test": "BABEL_ENV=test mocha --require babel-core/register './{,!(node_modules)/**/}*.test.js'",
