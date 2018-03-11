@@ -44,7 +44,7 @@ const appConfig = {
 
 const serverConfig = {
 	entry: {
-		server: './src/server/index.js',
+		server: './src/server/server.js',
 	},
 	target: 'node', // Prevent node code from being bundled
 	output: {
