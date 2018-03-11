@@ -1,5 +1,7 @@
 # aws-boilerplate
 
+[![Build Status](https://travis-ci.org/fongelias/aws-boilerplate.svg?branch=master)](https://travis-ci.org/fongelias/aws-boilerplate)
+
 ## Commands
 ### Setup
 removes .git folder, installs dependencies, then self destructs
